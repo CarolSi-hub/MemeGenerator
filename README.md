@@ -2,7 +2,9 @@ Welcome to the Meme Generator Project!
 bulbSee the following example of what the project might look like after it's done.
 exemplo de um meme generator
 
-<img src="./meme-generator.gif">
+https://carolsi-hub.github.io/Trybe-MemeGenerator/
+
+<img src="./meme-generator-main.png" width=600px />
 
 Mandatory Requirements:
 You must create a website that allows you to upload an image and insert text on it, styled appropriately.
